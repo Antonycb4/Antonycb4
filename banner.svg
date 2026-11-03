@@ -24,9 +24,9 @@
       <rect width="512" height="512" fill="#fff"/>
       <rect x="330" y="172" width="182" height="168" fill="#000"/>
     </mask>
-    <clipPath id="c0"><rect x="395" y="190" width="0" height="60"><animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.1;0.28;0.31;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="c1"><rect x="395" y="190" width="0" height="60"><animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.1;0.28;0.31;1" dur="12s" begin="4s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="c2"><rect x="395" y="190" width="0" height="60"><animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.1;0.28;0.31;1" dur="12s" begin="8s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c0"><rect x="395" y="190" width="0" height="60"><animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.06;0.28;0.31;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c1"><rect x="395" y="190" width="0" height="60"><animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.06;0.28;0.31;1" dur="12s" begin="4s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="395" y="190" width="0" height="60"><animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.06;0.28;0.31;1" dur="12s" begin="8s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
   <rect width="1200" height="320" fill="url(#bg)"/>
@@ -71,8 +71,8 @@
   <text x="370" y="232" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="34" fill="#FBBF24" font-weight="700">&gt;</text>
   <g font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="34" fill="#5EE0F7">
     <text x="405" y="232" clip-path="url(#c0)">Analista de sistemas</text>
-    <text x="405" y="232" clip-path="url(#c1)">Desarrollo C# / .NET</text>
-    <text x="405" y="232" clip-path="url(#c2)">Automatización &amp; IA</text>
+    <text x="405" y="232" clip-path="url(#c1)">Análisis ágil &amp; pruebas</text>
+    <text x="405" y="232" clip-path="url(#c2)">Desarrollo C# / .NET</text>
   </g>
 
   <!-- línea de acento animada -->

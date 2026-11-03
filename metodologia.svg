@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 304" width="900" height="304" role="img" aria-label="Metodología ágil">
+  <g transform="translate(0 0)">
+    <rect x="0.5" y="0.5" width="434" height="139" rx="18" fill="#0D1426" stroke="#1E293B"/>
+    <rect x="0" y="22" width="5" height="96" rx="2.5" fill="#5EE0F7"/>
+    <g transform="translate(30 38) scale(1.45)"><g fill="none" stroke="#5EE0F7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="0" width="34" height="40" rx="5"/><line x1="10" y1="12" x2="30" y2="12"/><line x1="10" y1="21" x2="30" y2="21"/><line x1="10" y1="30" x2="22" y2="30"/></g></g>
+    <text x="112" y="48" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" font-weight="800" fill="#F8FAFC" letter-spacing="0.5">HISTORIAS DE USUARIO</text>
+    <text x="112" y="82" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#CBD5E1">Requerimientos escritos</text><text x="112" y="108" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#CBD5E1">desde la voz del usuario</text>
+  </g>
+  <g transform="translate(465 0)">
+    <rect x="0.5" y="0.5" width="434" height="139" rx="18" fill="#0D1426" stroke="#1E293B"/>
+    <rect x="0" y="22" width="5" height="96" rx="2.5" fill="#6D6AF3"/>
+    <g transform="translate(30 38) scale(1.45)"><g fill="none" stroke="#6D6AF3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="0" width="16" height="12" rx="3"/><rect x="24" y="28" width="16" height="12" rx="3"/><polyline points="8,12 8,34 24,34"/></g><g fill="#6D6AF3"><polygon points="24,34 18,30 18,38"/></g></g>
+    <text x="112" y="48" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" font-weight="800" fill="#F8FAFC" letter-spacing="0.5">DIAGRAMAS DE PROCESO</text>
+    <text x="112" y="82" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#CBD5E1">Flujos claros que muestran</text><text x="112" y="108" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#CBD5E1">cómo trabaja cada proceso</text>
+  </g>
+  <g transform="translate(0 164)">
+    <rect x="0.5" y="0.5" width="434" height="139" rx="18" fill="#0D1426" stroke="#1E293B"/>
+    <rect x="0" y="22" width="5" height="96" rx="2.5" fill="#7A4FE8"/>
+    <g transform="translate(30 38) scale(1.45)"><g fill="none" stroke="#7A4FE8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 0 L38 7 V20 C38 31 30 38 20 41 C10 38 2 31 2 20 V7 Z"/><polyline points="12,21 18,27 29,14"/></g></g>
+    <text x="112" y="48" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" font-weight="800" fill="#F8FAFC" letter-spacing="0.5">PRUEBAS</text>
+    <text x="112" y="82" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#CBD5E1">Funcionales y no funcionales</text><text x="112" y="108" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#CBD5E1">para validar antes de entregar</text>
+  </g>
+  <g transform="translate(465 164)">
+    <rect x="0.5" y="0.5" width="434" height="139" rx="18" fill="#0D1426" stroke="#1E293B"/>
+    <rect x="0" y="22" width="5" height="96" rx="2.5" fill="#B72CD6"/>
+    <g transform="translate(30 38) scale(1.45)"><g fill="none" stroke="#B72CD6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="8" width="28" height="32" rx="4"/><path d="M12 8 V4 a4 4 0 0 1 4 -4 H36 a4 4 0 0 1 4 4 V32 a4 4 0 0 1 -4 4 H28"/><line x1="7" y1="20" x2="21" y2="20"/><line x1="7" y1="28" x2="21" y2="28"/></g></g>
+    <text x="112" y="48" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" font-weight="800" fill="#F8FAFC" letter-spacing="0.5">DOCUMENTACIÓN</text>
+    <text x="112" y="82" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#CBD5E1">Todo el análisis por escrito,</text><text x="112" y="108" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" fill="#CBD5E1">claro y fácil de retomar</text>
+  </g>
+  </svg>
