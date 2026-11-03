@@ -1,26 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" role="img" aria-label="Terminal: whoami">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" role="img" aria-label="Terminal: whoami">
   <defs>
     <linearGradient id="gb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5EE0F7"/><stop offset="0.5" stop-color="#6D6AF3"/><stop offset="1" stop-color="#B72CD6"/></linearGradient>
-    <clipPath id="t0"><rect x="30" y="72" width="0" height="34"><animate attributeName="width" from="0" to="850" dur="0.65s" begin="0.0s" fill="freeze"/></rect></clipPath>
-    <clipPath id="t1"><rect x="30" y="106" width="0" height="34"><animate attributeName="width" from="0" to="850" dur="1.23s" begin="0.9s" fill="freeze"/></rect></clipPath>
-    <clipPath id="t2"><rect x="30" y="140" width="0" height="34"><animate attributeName="width" from="0" to="850" dur="0.88s" begin="1.8s" fill="freeze"/></rect></clipPath>
-    <clipPath id="t3"><rect x="30" y="174" width="0" height="34"><animate attributeName="width" from="0" to="850" dur="1.93s" begin="2.7s" fill="freeze"/></rect></clipPath>
-    <clipPath id="t4"><rect x="30" y="208" width="0" height="34"><animate attributeName="width" from="0" to="850" dur="0.88s" begin="3.6s" fill="freeze"/></rect></clipPath>
-    <clipPath id="t5"><rect x="30" y="242" width="0" height="34"><animate attributeName="width" from="0" to="850" dur="1.30s" begin="4.5s" fill="freeze"/></rect></clipPath>
-    <clipPath id="t6"><rect x="30" y="276" width="0" height="34"><animate attributeName="width" from="0" to="850" dur="0.50s" begin="5.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t0"><rect x="30" y="64" width="0" height="38"><animate attributeName="width" from="0" to="850" dur="0.65s" begin="0.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t1"><rect x="30" y="102" width="0" height="38"><animate attributeName="width" from="0" to="850" dur="1.23s" begin="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t2"><rect x="30" y="140" width="0" height="38"><animate attributeName="width" from="0" to="850" dur="0.88s" begin="1.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t3"><rect x="30" y="178" width="0" height="38"><animate attributeName="width" from="0" to="850" dur="1.93s" begin="2.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t4"><rect x="30" y="216" width="0" height="38"><animate attributeName="width" from="0" to="850" dur="0.88s" begin="3.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t5"><rect x="30" y="254" width="0" height="38"><animate attributeName="width" from="0" to="850" dur="1.30s" begin="4.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t6"><rect x="30" y="292" width="0" height="38"><animate attributeName="width" from="0" to="850" dur="0.50s" begin="5.4s" fill="freeze"/></rect></clipPath>
     
   </defs>
-  <rect x="1" y="1" width="898" height="328" rx="16" fill="#0A0F1E" stroke="url(#gb)" stroke-opacity="0.55" stroke-width="2"/>
-  <path d="M1 17 a16 16 0 0 1 16 -16 h866 a16 16 0 0 1 16 16 v28 h-898 z" fill="#111A30"/>
-  <circle cx="30" cy="23" r="6" fill="#5EE0F7"/><circle cx="52" cy="23" r="6" fill="#6D6AF3"/><circle cx="74" cy="23" r="6" fill="#B72CD6"/>
-  <text x="450" y="28" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#64748B">antony@sistemas: ~</text>
-  <g clip-path="url(#t0)"><text x="36" y="96" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" font-weight="700" fill="#FBBF24">$</text><text x="62" y="96" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" fill="#5EE0F7">whoami</text></g>
-  <g clip-path="url(#t1)"><text x="62" y="130" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" fill="#C7D2FE">antony — analista de sistemas</text></g>
-  <g clip-path="url(#t2)"><text x="36" y="164" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" font-weight="700" fill="#FBBF24">$</text><text x="62" y="164" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" fill="#5EE0F7">cat enfoque.txt</text></g>
-  <g clip-path="url(#t3)"><text x="62" y="198" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" fill="#C7D2FE">convierto procesos desordenados en sistemas que funcionan</text></g>
-  <g clip-path="url(#t4)"><text x="36" y="232" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" font-weight="700" fill="#FBBF24">$</text><text x="62" y="232" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" fill="#5EE0F7">echo $filosofia</text></g>
-  <g clip-path="url(#t5)"><text x="62" y="266" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" fill="#C7D2FE">claridad primero, código después</text></g>
-  <g clip-path="url(#t6)"><text x="36" y="300" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" font-weight="700" fill="#FBBF24">$</text><text x="62" y="300" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" fill="#5EE0F7"></text></g>
-  <text x="36" y="300" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="20" font-weight="700" fill="#FBBF24">$</text>
-  <rect x="62" y="283" width="11" height="22" fill="#5EE0F7"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+  <rect x="1" y="1" width="898" height="358" rx="16" fill="#0A0F1E" stroke="url(#gb)" stroke-opacity="0.55" stroke-width="2"/>
+  <path d="M1 17 a16 16 0 0 1 16 -16 h866 a16 16 0 0 1 16 16 v22 h-898 z" fill="#111A30"/>
+  <circle cx="30" cy="21" r="6.5" fill="#5EE0F7"/><circle cx="52" cy="21" r="6.5" fill="#6D6AF3"/><circle cx="74" cy="21" r="6.5" fill="#B72CD6"/>
+  <g clip-path="url(#t0)"><text x="36" y="92" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" font-weight="700" fill="#FBBF24">$</text><text x="66" y="92" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" fill="#5EE0F7">whoami</text></g>
+  <g clip-path="url(#t1)"><text x="66" y="130" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" fill="#E2E8F0">antony — analista de sistemas</text></g>
+  <g clip-path="url(#t2)"><text x="36" y="168" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" font-weight="700" fill="#FBBF24">$</text><text x="66" y="168" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" fill="#5EE0F7">cat enfoque.txt</text></g>
+  <g clip-path="url(#t3)"><text x="66" y="206" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" fill="#E2E8F0">convierto procesos desordenados en sistemas que funcionan</text></g>
+  <g clip-path="url(#t4)"><text x="36" y="244" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" font-weight="700" fill="#FBBF24">$</text><text x="66" y="244" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" fill="#5EE0F7">echo $filosofia</text></g>
+  <g clip-path="url(#t5)"><text x="66" y="282" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" fill="#E2E8F0">claridad primero, código después</text></g>
+  <g clip-path="url(#t6)"><text x="36" y="320" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" font-weight="700" fill="#FBBF24">$</text><text x="66" y="320" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" fill="#5EE0F7"></text></g>
+  <text x="36" y="320" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" font-weight="700" fill="#FBBF24">$</text>
+  <rect x="66" y="300" width="12" height="26" fill="#5EE0F7"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 </svg>

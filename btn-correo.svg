@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 56" width="240" height="56" role="img" aria-label="CORREO">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" width="260" height="64" role="img" aria-label="CORREO">
   <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7A4FE8"/><stop offset="1" stop-color="#B72CD6"/></linearGradient></defs>
-  <rect x="1.5" y="1.5" width="237" height="53" rx="27" fill="#0D1426" stroke="url(#b)" stroke-width="3"/>
-  <text x="120" y="35" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="17" font-weight="800" fill="#F8FAFC" letter-spacing="2">CORREO  ↗</text>
+  <rect x="2" y="2" width="256" height="60" rx="30" fill="#0D1426" stroke="url(#b)" stroke-width="3.5"/>
+  <text x="130" y="40" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="21" font-weight="800" fill="#F8FAFC" letter-spacing="2">CORREO  ↗</text>
 </svg>

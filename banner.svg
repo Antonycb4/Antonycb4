@@ -24,10 +24,9 @@
       <rect width="512" height="512" fill="#fff"/>
       <rect x="330" y="172" width="182" height="168" fill="#000"/>
     </mask>
-    <clipPath id="c0"><rect x="395" y="180" width="0" height="50"><animate attributeName="width" values="0;640;640;0;0" keyTimes="0;0.09;0.22;0.25;1" dur="16s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="c1"><rect x="395" y="180" width="0" height="50"><animate attributeName="width" values="0;640;640;0;0" keyTimes="0;0.09;0.22;0.25;1" dur="16s" begin="4s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="c2"><rect x="395" y="180" width="0" height="50"><animate attributeName="width" values="0;640;640;0;0" keyTimes="0;0.09;0.22;0.25;1" dur="16s" begin="8s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="c3"><rect x="395" y="180" width="0" height="50"><animate attributeName="width" values="0;640;640;0;0" keyTimes="0;0.09;0.22;0.25;1" dur="16s" begin="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c0"><rect x="395" y="190" width="0" height="60"><animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.1;0.28;0.31;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c1"><rect x="395" y="190" width="0" height="60"><animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.1;0.28;0.31;1" dur="12s" begin="4s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="395" y="190" width="0" height="60"><animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.1;0.28;0.31;1" dur="12s" begin="8s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
   <rect width="1200" height="320" fill="url(#bg)"/>
@@ -66,20 +65,18 @@
   </g>
 
   <!-- nombre -->
-  <text x="370" y="135" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif" font-size="68" font-weight="800" fill="url(#name)" letter-spacing="-1">Antony Carrasco</text>
+  <text x="370" y="150" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="800" fill="url(#name)" letter-spacing="-1">Antony Carrasco</text>
 
   <!-- prompt + frases que se escriben -->
-  <text x="370" y="214" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="26" fill="#FBBF24" font-weight="700">&gt;</text>
-  <g font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="26" fill="#5EE0F7">
-    <text x="400" y="214" clip-path="url(#c0)">Analista de sistemas</text>
-    <text x="400" y="214" clip-path="url(#c1)">Automatización &amp; datos</text>
-    <text x="400" y="214" clip-path="url(#c2)">IA aplicada al trabajo real</text>
-    <text x="400" y="214" clip-path="url(#c3)">Marketing digital</text>
+  <text x="370" y="232" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="34" fill="#FBBF24" font-weight="700">&gt;</text>
+  <g font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="34" fill="#5EE0F7">
+    <text x="405" y="232" clip-path="url(#c0)">Analista de sistemas</text>
+    <text x="405" y="232" clip-path="url(#c1)">Desarrollo C# / .NET</text>
+    <text x="405" y="232" clip-path="url(#c2)">Automatización &amp; IA</text>
   </g>
 
   <!-- línea de acento animada -->
-  <rect x="370" y="250" width="420" height="4" rx="2" fill="url(#bar)">
+  <rect x="370" y="268" width="420" height="5" rx="2.5" fill="url(#bar)">
     <animate attributeName="width" values="120;420;120" dur="6s" repeatCount="indefinite"/>
   </rect>
-  <text x="370" y="284" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="15" fill="#64748B">construyendo sistemas que ahorran tiempo</text>
 </svg>
