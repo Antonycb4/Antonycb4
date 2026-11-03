@@ -68,16 +68,12 @@ const antony = {
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="180" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Antonycb4&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=1E293B&border_radius=14&bg_color=0B1020&title_color=5EE0F7&text_color=C7D2FE&icon_color=B72CD6&ring_color=6D6AF3" />
-  <img height="180" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonycb4&layout=compact&hide_border=false&border_color=1E293B&border_radius=14&bg_color=0B1020&title_color=5EE0F7&text_color=C7D2FE" />
-</p>
-
-<p align="center">
   <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com/?user=Antonycb4&theme=dark&background=0B1020&border=1E293B&ring=6D6AF3&fire=FBBF24&currStreakNum=FFFFFF&currStreakLabel=5EE0F7&sideNums=C7D2FE&sideLabels=94A3B8&dates=64748B&stroke=1E293B&border_radius=14" />
 </p>
 
 <p align="center">
-  <img alt="Gráfico de actividad" src="https://github-readme-activity-graph.vercel.app/graph?username=Antonycb4&bg_color=0B1020&color=5EE0F7&line=6D6AF3&point=FBBF24&area=true&area_color=6D6AF3&hide_border=true&radius=14" />
+  <img alt="Seguidores" src="https://img.shields.io/github/followers/Antonycb4?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020&color=6D6AF3" />
+  <img alt="Visitas al perfil" src="https://komarev.com/ghpvc/?username=Antonycb4&style=for-the-badge&label=VISITAS&labelColor=0B1020&color=5EE0F7" />
 </p>
 
 ---
